@@ -1,0 +1,25 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+
+# Env
+.env
+virtualenv/
+venv/
+
+
+# DB
+db.sqlite3
+
+
+# static files
+/static/
+
+
+# macOS
+._*
+.DS_Store
+.fseventsd
+.Spotlight-V100
